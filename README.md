@@ -11,7 +11,7 @@ This project develops a **Mixed Integer Programming (MIP) model** to optimize po
 
 ```bash
 portfolio-optimization/
-├── main.py                  # Python code for optimization model
+├── code.ipynb                  # Jupyter Notebook code for optimization model
 ├── requirements.txt         # Project dependencies
 └── data/                    # Datasets for different time periods
     ├── 2012–2014_ Recovery - Trang tính1.csv
@@ -55,7 +55,7 @@ portfolio-optimization/
 
 3. Run the optimization code:
 
-   python main.py
+   jupyter notebook code.ipynb
 
 📌 Notes
 
