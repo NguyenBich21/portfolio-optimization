@@ -9,6 +9,7 @@ This project develops a **Mixed Integer Programming (MIP) model** to optimize po
 ## 📂 Project Structure
 
 portfolio-optimization/
+
 │── main.py # Python code for optimization model
 │── data/ # Datasets for different time periods
 │ ├── 2012–2014_ Recovery - Trang tính1.csv
