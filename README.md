@@ -48,11 +48,11 @@ portfolio-optimization/
    cd portfolio-optimization
 2. Ensure required libraries are installed:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the optimization code:
 
-python main.py
+   python main.py
 
 📌 Notes
 
