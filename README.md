@@ -61,4 +61,5 @@ portfolio-optimization/
 
 This is an individual academic project for the Applied Optimization course.
 
-Dataset files (2012–2014_ Recovery - Trang tính1.csv, 2015–2017_ Expansion - Trang tính1.csv, 2018–2020_ Contraction - Trang tính1.csv, 2021–2023_ Expansion → Recession → Recovery - Trang tính1.csv) represent different market stages for testing robustness of the model.
+Dataset files (2012–2014_ Recovery - Trang tính1.csv, 2015–2017_ Expansion - Trang tính1.csv, 2018–2020_ Contraction - Trang tính1.csv, 
+2021–2023_ Expansion → Recession → Recovery - Trang tính1.csv) represent different market stages for testing robustness of the model.
