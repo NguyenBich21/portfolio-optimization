@@ -9,7 +9,7 @@ This project develops a **Mixed Integer Programming (MIP) model** to optimize po
 
 ## 📂 Project Structure
 
-```bash
+```text
 portfolio-optimization/
 ├── main.py                  # Python code for optimization model
 ├── requirements.txt         # Project dependencies
